@@ -1,0 +1,9 @@
+SOVER_Joystik	KEYWORD1
+startJoystik	KEYWORD2
+Joystik	KEYWORD1
+getVse	KEYWORD2
+getX	KEYWORD2
+getY	KEYWORD2
+getKn	KEYWORD2
+joysTik	KEYWORD1
+getVsePort	KEYWORD2
